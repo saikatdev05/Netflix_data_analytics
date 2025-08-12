@@ -66,7 +66,7 @@ Copy
 Edit
 <img width="1920" height="1080" alt="Screenshot (596)" src="https://github.com/user-attachments/assets/5470a859-7c94-4aa8-ab96-e71246ccd68e" />
 
-git clone https://github.com/yourusername/netflix-data-analytics.git
+git clonehttps://github.com/saikatdev05/Netflix_data_analytics/tree/main
 Open the Jupyter Notebook for Python-based analysis.
 
 Open the Power BI file (.pbix) to explore the interactive dashboard.
